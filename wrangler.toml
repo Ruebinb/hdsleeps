@@ -1,3 +1,0 @@
-name = "hdsleeps"
-compatibility_date = "2025-11-18" # Use today's date or earlier
-pages_build_output_dir = "./main" # Your build directory
